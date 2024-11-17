@@ -1,0 +1,9 @@
+management:
+  endpoints:
+    web:
+      exposure:
+        include:
+          - '*'
+greeting-service:
+    greeging: "Ol�"
+    default-value: "Mundo"
